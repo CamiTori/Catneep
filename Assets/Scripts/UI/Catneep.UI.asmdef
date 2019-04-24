@@ -1,0 +1,13 @@
+{
+    "name": "UI",
+    "references": [
+        "Main",
+        "Unity.TextMeshPro",
+        "Utils",
+        "Catneep.Utils.UI"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

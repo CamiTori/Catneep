@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1740732639
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69ce8207cb047d0ff5170d19b3407b04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1114c952ebe9b3afafba79e18283bff
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f932d2e8fe15e3b42ab4080b3c38a1ee, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Songs/No More Cats in Jail.asset
+- Assets/Songs/Notesheets/neeping.txt
+- Assets/Songs/Hairballs.asset
+- Assets/Songs/Neeping.asset
+- Assets/Songs/Janis excuses.asset
+- Assets/Songs/Now we're even.asset
+- Assets/Songs/Notesheets/miau 1.1.txt
+Dependencies: []

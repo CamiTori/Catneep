@@ -1,0 +1,10 @@
+{
+    "name": "Catneep.Utils.UI",
+    "references": [
+        "Utils"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

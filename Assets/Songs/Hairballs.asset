@@ -1,0 +1,562 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f932d2e8fe15e3b42ab4080b3c38a1ee, type: 3}
+  m_Name: Hairballs
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: ed9402e9b30298e44b99b65b7f6a61bd, type: 3}
+  title: Hairballs
+  author: Renzan
+  description: 
+  bpm: 100
+  offset: 0
+  easyNoteSheet:
+    uiCurves:
+    - from: {x: -0.13625279, y: -0.08838772}
+      toLocal: {x: 0.0023447722, y: 0.4378334}
+      curvatureLocal: {x: -0.0785089, y: 0.41245434}
+    - from: {x: -0.05999266, y: -0.088823855}
+      toLocal: {x: -0.3645468, y: 0.4223521}
+      curvatureLocal: {x: -0.009050015, y: 0.443441}
+    - from: {x: 0.023660108, y: -0.0890956}
+      toLocal: {x: 0.315004, y: 0.4334899}
+      curvatureLocal: {x: 0.010814648, y: 0.44497925}
+    - from: {x: 0.09982013, y: -0.08890437}
+      toLocal: {x: -0.13658927, y: 0.5677139}
+      curvatureLocal: {x: 0.08487976, y: 0.43410242}
+    notes:
+    - relativeTime: 6
+      duration: 0
+      notes: 1
+    - relativeTime: 6
+      duration: 0
+      notes: 1
+    - relativeTime: 7
+      duration: 0
+      notes: 2
+    - relativeTime: 32
+      duration: 0
+      notes: 8
+    - relativeTime: 4
+      duration: 0
+      notes: 8
+    - relativeTime: 8
+      duration: 0
+      notes: 4
+    - relativeTime: 33
+      duration: 0
+      notes: 1
+    - relativeTime: 6
+      duration: 0
+      notes: 1
+    - relativeTime: 6
+      duration: 0
+      notes: 2
+    - relativeTime: 35
+      duration: 0
+      notes: 8
+    - relativeTime: 6
+      duration: 0
+      notes: 8
+    - relativeTime: 6
+      duration: 0
+      notes: 4
+    - relativeTime: 34
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 1
+    - relativeTime: 7
+      duration: 0
+      notes: 2
+    - relativeTime: 11
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 1
+    - relativeTime: 6
+      duration: 0
+      notes: 2
+    - relativeTime: 12
+      duration: 0
+      notes: 8
+    - relativeTime: 5
+      duration: 0
+      notes: 8
+    - relativeTime: 7
+      duration: 0
+      notes: 4
+    - relativeTime: 12
+      duration: 0
+      notes: 8
+    - relativeTime: 5
+      duration: 0
+      notes: 8
+    - relativeTime: 6
+      duration: 0
+      notes: 4
+    - relativeTime: 12
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 2
+    - relativeTime: 13
+      duration: 0
+      notes: 8
+    - relativeTime: 5
+      duration: 0
+      notes: 8
+    - relativeTime: 5
+      duration: 0
+      notes: 4
+    - relativeTime: 13
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 2
+    - relativeTime: 13
+      duration: 0
+      notes: 8
+    - relativeTime: 5
+      duration: 0
+      notes: 8
+    - relativeTime: 5
+      duration: 0
+      notes: 4
+    - relativeTime: 12
+      duration: 0
+      notes: 2
+    - relativeTime: 5
+      duration: 0
+      notes: 2
+    - relativeTime: 6
+      duration: 0
+      notes: 1
+    - relativeTime: 12
+      duration: 0
+      notes: 4
+    - relativeTime: 5
+      duration: 0
+      notes: 4
+    - relativeTime: 6
+      duration: 0
+      notes: 8
+    - relativeTime: 12
+      duration: 0
+      notes: 2
+    - relativeTime: 4
+      duration: 0
+      notes: 2
+    - relativeTime: 6
+      duration: 0
+      notes: 1
+    - relativeTime: 14
+      duration: 0
+      notes: 4
+    - relativeTime: 4
+      duration: 0
+      notes: 4
+    - relativeTime: 6
+      duration: 0
+      notes: 8
+    - relativeTime: 12
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 1
+    - relativeTime: 6
+      duration: 0
+      notes: 2
+    - relativeTime: 11
+      duration: 0
+      notes: 8
+    - relativeTime: 4
+      duration: 0
+      notes: 8
+    - relativeTime: 7
+      duration: 0
+      notes: 4
+    - relativeTime: 12
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 1
+    - relativeTime: 6
+      duration: 0
+      notes: 2
+    - relativeTime: 11
+      duration: 0
+      notes: 8
+    - relativeTime: 6
+      duration: 0
+      notes: 8
+    - relativeTime: 6
+      duration: 0
+      notes: 4
+    - relativeTime: 15
+      duration: 0
+      notes: 3
+    - relativeTime: 21
+      duration: 0
+      notes: 12
+    - relativeTime: 24
+      duration: 0
+      notes: 3
+    - relativeTime: 21
+      duration: 0
+      notes: 12
+    - relativeTime: 23
+      duration: 0
+      notes: 3
+    - relativeTime: 12
+      duration: 0
+      notes: 3
+    - relativeTime: 11
+      duration: 0
+      notes: 3
+    - relativeTime: 12
+      duration: 0
+      notes: 3
+    - relativeTime: 11
+      duration: 13
+      notes: 2
+    - relativeTime: 23
+      duration: 17
+      notes: 1
+    - relativeTime: 24
+      duration: 0
+      notes: 12
+    - relativeTime: 20
+      duration: 0
+      notes: 12
+    - relativeTime: 23
+      duration: 0
+      notes: 12
+    - relativeTime: 25
+      duration: 0
+      notes: 12
+    - relativeTime: 23
+      duration: 11
+      notes: 3
+    - relativeTime: 22
+      duration: 13
+      notes: 3
+    - relativeTime: 23
+      duration: 0
+      notes: 3
+    - relativeTime: 19
+      duration: 0
+      notes: 3
+    - relativeTime: 27
+      duration: 0
+      notes: 1
+    - relativeTime: 22
+      duration: 0
+      notes: 2
+    - relativeTime: 4
+      duration: 0
+      notes: 2
+    - relativeTime: 8
+      duration: 0
+      notes: 4
+    - relativeTime: 11
+      duration: 0
+      notes: 8
+    - relativeTime: 22
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 2
+    - relativeTime: 20
+      duration: 0
+      notes: 2
+    - relativeTime: 5
+      duration: 0
+      notes: 4
+    - relativeTime: 9
+      duration: 0
+      notes: 8
+    - relativeTime: 10
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 1
+    - relativeTime: 8
+      duration: 0
+      notes: 2
+    - relativeTime: 16
+      duration: 0
+      notes: 2
+    - relativeTime: 6
+      duration: 0
+      notes: 4
+    - relativeTime: 4
+      duration: 0
+      notes: 8
+    - relativeTime: 7
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 2
+    - relativeTime: 12
+      duration: 0
+      notes: 4
+    - relativeTime: 19
+      duration: 0
+      notes: 1
+    - relativeTime: 6
+      duration: 0
+      notes: 1
+    - relativeTime: 6
+      duration: 0
+      notes: 2
+    - relativeTime: 13
+      duration: 0
+      notes: 1
+    - relativeTime: 4
+      duration: 0
+      notes: 2
+    - relativeTime: 5
+      duration: 0
+      notes: 4
+    - relativeTime: 6
+      duration: 0
+      notes: 8
+    - relativeTime: 17
+      duration: 0
+      notes: 1
+    - relativeTime: 4
+      duration: 0
+      notes: 2
+    - relativeTime: 6
+      duration: 0
+      notes: 4
+    - relativeTime: 10
+      duration: 0
+      notes: 8
+    - relativeTime: 4
+      duration: 0
+      notes: 8
+    - relativeTime: 8
+      duration: 0
+      notes: 4
+    - relativeTime: 9
+      duration: 0
+      notes: 2
+    - relativeTime: 6
+      duration: 0
+      notes: 1
+    - relativeTime: 9
+      duration: 0
+      notes: 2
+    - relativeTime: 6
+      duration: 0
+      notes: 4
+    - relativeTime: 11
+      duration: 0
+      notes: 8
+    - relativeTime: 6
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 2
+    - relativeTime: 7
+      duration: 0
+      notes: 4
+    - relativeTime: 5
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 1
+    - relativeTime: 6
+      duration: 0
+      notes: 2
+    - relativeTime: 23
+      duration: 0
+      notes: 8
+    - relativeTime: 5
+      duration: 0
+      notes: 8
+    - relativeTime: 7
+      duration: 0
+      notes: 4
+    - relativeTime: 10
+      duration: 0
+      notes: 1
+    - relativeTime: 4
+      duration: 0
+      notes: 1
+    - relativeTime: 6
+      duration: 0
+      notes: 2
+    - relativeTime: 12
+      duration: 0
+      notes: 8
+    - relativeTime: 4
+      duration: 0
+      notes: 8
+    - relativeTime: 7
+      duration: 0
+      notes: 4
+    - relativeTime: 13
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 1
+    - relativeTime: 6
+      duration: 0
+      notes: 2
+    - relativeTime: 11
+      duration: 0
+      notes: 8
+    - relativeTime: 4
+      duration: 0
+      notes: 8
+    - relativeTime: 7
+      duration: 0
+      notes: 4
+    - relativeTime: 13
+      duration: 0
+      notes: 2
+    - relativeTime: 4
+      duration: 0
+      notes: 2
+    - relativeTime: 6
+      duration: 0
+      notes: 1
+    - relativeTime: 12
+      duration: 0
+      notes: 4
+    - relativeTime: 5
+      duration: 0
+      notes: 4
+    - relativeTime: 7
+      duration: 0
+      notes: 8
+    - relativeTime: 11
+      duration: 0
+      notes: 2
+    - relativeTime: 5
+      duration: 0
+      notes: 2
+    - relativeTime: 6
+      duration: 0
+      notes: 1
+    - relativeTime: 11
+      duration: 0
+      notes: 4
+    - relativeTime: 5
+      duration: 0
+      notes: 4
+    - relativeTime: 6
+      duration: 0
+      notes: 8
+    - relativeTime: 12
+      duration: 0
+      notes: 2
+    - relativeTime: 5
+      duration: 0
+      notes: 2
+    - relativeTime: 8
+      duration: 0
+      notes: 1
+    - relativeTime: 11
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 2
+    - relativeTime: 12
+      duration: 0
+      notes: 8
+    - relativeTime: 5
+      duration: 0
+      notes: 8
+    - relativeTime: 6
+      duration: 0
+      notes: 4
+    - relativeTime: 13
+      duration: 0
+      notes: 1
+    - relativeTime: 4
+      duration: 0
+      notes: 1
+    - relativeTime: 6
+      duration: 0
+      notes: 2
+    - relativeTime: 11
+      duration: 0
+      notes: 8
+    - relativeTime: 4
+      duration: 0
+      notes: 8
+    - relativeTime: 8
+      duration: 0
+      notes: 4
+    - relativeTime: 12
+      duration: 0
+      notes: 1
+    - relativeTime: 5
+      duration: 0
+      notes: 1
+    - relativeTime: 6
+      duration: 0
+      notes: 2
+    - relativeTime: 5
+      duration: 0
+      notes: 2
+    - relativeTime: 8
+      duration: 13
+      notes: 6
+  hardNoteSheet:
+    uiCurves:
+    - from: {x: 0, y: 0}
+      toLocal: {x: 0, y: 0}
+      curvatureLocal: {x: 0, y: 0}
+    - from: {x: 0, y: 0}
+      toLocal: {x: 0, y: 0}
+      curvatureLocal: {x: 0, y: 0}
+    - from: {x: 0, y: 0}
+      toLocal: {x: 0, y: 0}
+      curvatureLocal: {x: 0, y: 0}
+    - from: {x: 0, y: 0}
+      toLocal: {x: 0, y: 0}
+      curvatureLocal: {x: 0, y: 0}
+    - from: {x: 0, y: 0}
+      toLocal: {x: 0, y: 0}
+      curvatureLocal: {x: 0, y: 0}
+    - from: {x: 0, y: 0}
+      toLocal: {x: 0, y: 0}
+      curvatureLocal: {x: 0, y: 0}
+    notes: []

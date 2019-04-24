@@ -1,0 +1,13 @@
+{
+    "name": "Neeps",
+    "references": [
+        "Main",
+        "UI",
+        "Utils",
+        "Unity.Postprocessing.Runtime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

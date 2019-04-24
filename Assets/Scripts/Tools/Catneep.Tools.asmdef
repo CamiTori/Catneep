@@ -1,0 +1,14 @@
+{
+    "name": "Tools",
+    "references": [
+        "Main",
+        "UI",
+        "Unity.TextMeshPro"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
