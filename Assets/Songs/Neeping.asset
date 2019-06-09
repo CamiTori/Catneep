@@ -4,7 +4,8 @@
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -23,10 +24,10 @@ MonoBehaviour:
       toLocal: {x: -0.27438888, y: 0.48469034}
       curvatureLocal: {x: 0.002533853, y: 0.47721896}
     - from: {x: -0.034366556, y: -0.16641079}
-      toLocal: {x: -0.5562769, y: -0.10505624}
+      toLocal: {x: -0.0062241517, y: 0.73183405}
       curvatureLocal: {x: 0.0064242557, y: 0.4868768}
     - from: {x: 0.03616735, y: -0.1672601}
-      toLocal: {x: 0.51631665, y: -0.05781482}
+      toLocal: {x: 0.000009328127, y: 0.7318317}
       curvatureLocal: {x: -0.008812763, y: 0.48536485}
     - from: {x: 0.10014919, y: -0.1508017}
       toLocal: {x: 0.28907236, y: 0.48491418}

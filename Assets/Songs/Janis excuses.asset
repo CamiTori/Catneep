@@ -4,7 +4,8 @@
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -19,18 +20,18 @@ MonoBehaviour:
   offset: 0
   easyNoteSheet:
     uiCurves:
-    - from: {x: -0.10500001, y: -0.12}
-      toLocal: {x: -0.36635685, y: 0.4874957}
-      curvatureLocal: {x: -0.10000003, y: 0.5}
-    - from: {x: -0.03805852, y: -0.08994764}
-      toLocal: {x: -0.040959813, y: 0.61529243}
-      curvatureLocal: {x: 0, y: 0.4}
-    - from: {x: 0.03805839, y: -0.08994764}
-      toLocal: {x: 0.025667448, y: 0.5938832}
-      curvatureLocal: {x: 0, y: 0.4}
-    - from: {x: 0.105, y: -0.12}
-      toLocal: {x: 0.35412312, y: 0.47832033}
-      curvatureLocal: {x: 0.1, y: 0.5}
+    - from: {x: -0.11174915, y: -0.16049467}
+      toLocal: {x: -0.693689, y: 0.10279633}
+      curvatureLocal: {x: -0.28897527, y: 0.4325089}
+    - from: {x: -0.038058463, y: -0.16081338}
+      toLocal: {x: -0.62475824, y: 0.5680486}
+      curvatureLocal: {x: -0.080989376, y: 0.33250883}
+    - from: {x: 0.038058434, y: -0.1641879}
+      toLocal: {x: 0.50485444, y: 0.6411269}
+      curvatureLocal: {x: 0.18897523, y: 0.45399314}
+    - from: {x: 0.11512377, y: -0.17399292}
+      toLocal: {x: 0.7928156, y: 0.06324991}
+      curvatureLocal: {x: 0.34296829, y: 0.58436394}
     notes:
     - relativeTime: 4
       duration: 0
