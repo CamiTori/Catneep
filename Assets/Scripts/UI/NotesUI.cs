@@ -267,7 +267,7 @@ public class NotesUI : MonoBehaviour
     [Header("Score")]
 
     [SerializeField]
-    private TMPro.TextMeshProUGUI scoreText;
+    private Text scoreText;
 
 
     private void Awake()
