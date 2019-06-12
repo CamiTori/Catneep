@@ -18,6 +18,7 @@ MonoBehaviour:
   description: Miau 2
   bpm: 97
   offset: 0
+  backgroundImage: {fileID: 21300000, guid: dd6fb0bcb43efb54db37004310219962, type: 3}
   easyNoteSheet:
     uiCurves:
     - from: {x: -0.11174915, y: -0.16049467}

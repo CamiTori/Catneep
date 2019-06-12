@@ -75,6 +75,12 @@ public sealed class Song : ScriptableObject
 
     [Space]
 
+    [SerializeField]
+    private Sprite backgroundImage;
+    public Sprite BackgroundImage { get { return backgroundImage; } }
+
+    [Space]
+
     [SerializeField, HideInInspector]
     private NoteSheet easyNoteSheet;
 
